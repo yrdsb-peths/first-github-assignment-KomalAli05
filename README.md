@@ -5,9 +5,9 @@ Then answer in the space below each question:
 
 1. Komal
 
-2. Ali
+2.
 
-3. Don't have one
+3. Birds
 
 
 Now click the green 'commit changes' button at the bottom.
